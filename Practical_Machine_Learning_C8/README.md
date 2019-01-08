@@ -1,1 +1,2 @@
-John Hopkins Data Science Specialization (Coursera)
+# PracticalML
+John Hopkins Data Science Specialization
